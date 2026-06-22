@@ -1,0 +1,62 @@
+# ==========================
+
+# Dataset Files
+
+# ==========================
+
+data/raw/application_train.csv
+data/raw/bureau.csv
+data/raw/bureau_balance.csv
+data/raw/previous_application.csv
+data/raw/installments_payments.csv
+data/raw/POS_CASH_balance.csv
+data/raw/credit_card_balance.csv
+
+data/raw/PRCP-1006-HomeLoanDef (1).docx
+data/raw/PRCP-1006-HomeLoanDef.ipynb
+
+
+# ==========================
+
+# Virtual Environment
+
+# ==========================
+
+venv/
+.venv/
+
+# ==========================
+
+# Python Cache
+
+# ==========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# ==========================
+
+# Jupyter Notebook
+
+# ==========================
+
+.ipynb_checkpoints/
+
+# ==========================
+
+# Model Files
+
+# ==========================
+
+*.pkl
+*.joblib
+
+# ==========================
+
+# Operating System Files
+
+# ==========================
+
+.DS_Store
+Thumbs.db
