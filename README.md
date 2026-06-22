@@ -1,4 +1,4 @@
-PRCP-1006-HomeLoanDef/
+home-credit-default-risk-prediction/
 │
 ├── data/
 │   ├── raw/
