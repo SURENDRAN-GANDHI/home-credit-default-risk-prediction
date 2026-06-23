@@ -49,7 +49,12 @@ home-credit-default-risk-prediction/
 │   └── final/
 │
 ├── notebooks/
-│   └── HomeLoanDefault.ipynb
+│   ├── 01_Data_Understanding.ipynb
+│   ├── 02_EDA.ipynb
+│   ├── 03_Feature_Engineering.ipynb
+│   ├── 04_Model_Training.ipynb
+│   └── 05_Model_Evaluation.ipynb
+│
 │
 ├── src/
 │   ├── data_ingestion.py
