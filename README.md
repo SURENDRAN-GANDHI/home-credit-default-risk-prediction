@@ -108,7 +108,7 @@ data/raw/
 * [x] Project Structure Setup
 * [x] Git Repository Setup
 * [x] Dataset Collection
-* [ ] Data Understanding
+* [x] Data Understanding
 * [ ] Data Cleaning
 * [ ] Exploratory Data Analysis
 * [ ] Feature Engineering
